@@ -4,9 +4,9 @@
 	<classpathentry exported="true" kind="lib" path="lib/antlr-runtime-4.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/commons-lang3-3.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/commons-math3-3.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/g2-expression.jar"/>
+	<classpathentry kind="lib" path="lib/g2-expression.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/gson-2.2.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/ils-common.jar"/>
+	<classpathentry kind="lib" path="lib/ils-common.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jama-1.0.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgraphx-2.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgraphx-examples.jar"/>
@@ -15,7 +15,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/jython-2.5.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.16.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/sqlite-jdbc-3.7.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/user-expression.jar"/>
+	<classpathentry kind="lib" path="lib/user-expression.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
