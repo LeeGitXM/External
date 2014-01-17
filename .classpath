@@ -16,5 +16,8 @@
 	<classpathentry exported="true" kind="lib" path="lib/sqlite-jdbc-3.7.2.jar"/>
 	<classpathentry kind="lib" path="lib/user-expression.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-core-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-databind-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-annotations-2.2.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
