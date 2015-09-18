@@ -20,5 +20,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.jdt.annotation_2.0.0.v20140415-1436.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/lucene-1.4.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/prefuse-1.0.1.jar" sourcepath="/prefuse/src"/>
+	<classpathentry exported="true" kind="lib" path="lib/miglayout-4.0-swing.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
