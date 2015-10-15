@@ -6,4 +6,5 @@
 #
 REPO=${MVN_REPO}/repository
 LIB=lib
-cp $REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar ${LIB}
+cp $REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar ${LIB}
+cp $REPO/org/apache/poi/poi/3.13/poi-3.13.jar ${LIB}

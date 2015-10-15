@@ -3,42 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>sdk.acquisition.project</groupId>
-	<artifactId>ignition-78-jar-acquisition</artifactId>
+	<groupId>com.ils.external</groupId>
+	<artifactId>external-jar-acquisition</artifactId>
 	<version>7.8.0</version>
 	<packaging>pom</packaging>
 
 	<modules>
 		<module>Stub</module>
 	</modules>
-
-	<pluginRepositories>
-		<pluginRepository>
-			<id>releases</id>
-			<url>http://nexus.inductiveautomation.com:8081/nexus/content/repositories/inductiveautomation-releases</url>
-		</pluginRepository>
-	</pluginRepositories>
-
-	<repositories>
-		<repository>
-			<id>releases</id>
-			<url>http://nexus.inductiveautomation.com:8081/nexus/content/repositories/inductiveautomation-releases</url>
-		</repository>
-
-		<repository>
-			<id>snapshots</id>
-			<url>http://nexus.inductiveautomation.com:8081/nexus/content/repositories/inductiveautomation-snapshots</url>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>always</updatePolicy>
-			</snapshots>
-		</repository>
-
-		<repository>
-			<id>thirdparty</id>
-			<url>http://nexus.inductiveautomation.com:8081/nexus/content/repositories/inductiveautomation-thirdparty
-            </url>
-		</repository>
-	</repositories>
 
 </project>

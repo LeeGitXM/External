@@ -1,4 +1,4 @@
-package org.Stub;
+package com.ils.external;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
