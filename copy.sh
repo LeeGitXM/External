@@ -4,6 +4,7 @@
 # The script must be run in the root directory of the
 # external repository.
 #
+#
 REPO=${MVN_REPO}/repository
 LIB=lib
 cp $REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar ${LIB}
