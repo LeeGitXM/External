@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry exported="true" kind="lib" path="lib/commons-lang3-3.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/commons-math3-3.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jama-1.0.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgraphx-2.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgraphx-examples.jar"/>
@@ -33,5 +32,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/jide-grids-3.5.13.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jide-plaf-3.5.13.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jide-shortcut-3.5.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-math3-3.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
